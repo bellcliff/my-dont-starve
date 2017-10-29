@@ -1,0 +1,31 @@
+{
+  "name": "my-dont-starve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellcliff/my-dont-starve.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellcliff/my-dont-starve/issues"
+  },
+  "homepage": "https://github.com/bellcliff/my-dont-starve#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "@google-cloud/nodejs-repo-tools": "1.4.16",
+    "ava": "~0.21.0",
+    "supertest": "~3.0.0",
+    "tap-dot": "~1.0.5"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  }
+}
